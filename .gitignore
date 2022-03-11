@@ -27,3 +27,5 @@ bin/.classpath
 .project
 .classpath
 /bin/
+.settings
+bin
